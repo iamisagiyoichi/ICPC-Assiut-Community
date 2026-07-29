@@ -68,7 +68,6 @@ public class Main {
 
         out.println(b);
     }
-
     public static void main(String[] args) throws Exception {
         solve();
         out.flush();
