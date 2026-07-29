@@ -55,7 +55,6 @@ public class Main {
         if (a < 2) {
             return false;
         }
-
         int b = 2;
 
         while (b * b <= a) {
