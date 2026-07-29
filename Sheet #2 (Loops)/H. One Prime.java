@@ -5,7 +5,6 @@ public class Main {
     static class FastReader {
         private final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         private StringTokenizer st;
-
         String next() throws IOException {
             while (st == null || !st.hasMoreElements()) {
                 st = new StringTokenizer(br.readLine());
