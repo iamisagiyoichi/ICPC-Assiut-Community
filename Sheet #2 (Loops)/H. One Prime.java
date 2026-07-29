@@ -51,7 +51,6 @@ public class Main {
     }
     static FastReader sc = new FastReader();
     static PrintWriter out = new PrintWriter(System.out);
-
     static boolean prime(int a) {
         if (a < 2) {
             return false;
