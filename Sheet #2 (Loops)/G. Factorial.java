@@ -60,7 +60,6 @@ public class Main {
 
         return b;
     }
-
     public static void solve() throws Exception {
         int a = sc.nextInt();
         out.println(fact(a));
