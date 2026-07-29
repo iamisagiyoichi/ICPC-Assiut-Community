@@ -51,7 +51,6 @@ public class Main {
 
     static FastReader sc = new FastReader();
     static PrintWriter out = new PrintWriter(System.out);
-
     public static void solve() throws Exception {
         int a = sc.nextInt();
 
