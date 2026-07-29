@@ -64,7 +64,6 @@ public class Main {
         int a = sc.nextInt();
         out.println(fact(a));
     }
-
     public static void main(String[] args) throws Exception {
         int t = sc.nextInt();
 
