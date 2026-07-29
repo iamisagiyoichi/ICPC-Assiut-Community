@@ -49,7 +49,6 @@ public class Main {
     }
     static FastReader sc = new FastReader();
     static PrintWriter out = new PrintWriter(System.out);
-
     static long fact(int a) {
         long b = 1;
         int c = 1;
