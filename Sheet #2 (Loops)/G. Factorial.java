@@ -47,7 +47,6 @@ public class Main {
             return a;
         }
     }
-
     static FastReader sc = new FastReader();
     static PrintWriter out = new PrintWriter(System.out);
 
