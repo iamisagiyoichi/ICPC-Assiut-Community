@@ -37,7 +37,6 @@ public class Main {
             }
             return a;
         }
-
         long[] nextLongArray(int n) throws IOException {
             long[] a = new long[n];
             int b = 0;
